@@ -22,7 +22,7 @@
 // let total = 0;
 // ```
 let total = 0;
-let numberAdd
+let numberAdd;
 while (numberAdd = prompt("Введите число")){
     if (!Number(numberAdd)) {
         alert('Было введено не число, попробуйте еще раз');
